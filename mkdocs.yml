@@ -40,10 +40,15 @@ theme: # Тема сайта, информация о ее параметрах
 nav: # Структура сайта
     - Welcome: index.md
     - System A: 
-      - system-a/index.md
-      - Overview: system-a/overview.md
-      - Logical: system-a/logical.md
-      - Physical: system-a/physical.md
+      - Architecture:
+        - system-a/index.md
+        - Overview: system-a/architecture/overview.md
+        - Logical: system-a/architecture/logical.md
+        - Physical: system-a/architecture/physical.md
+      - Support Model:
+        - system-a/support-model/index.md
+        - Introduction: system-a/support-model/introduction.md
+        - Overview of Support: system-a/support-model/overview.md
     - System B: 
       - system-b/index.md
       - Overview: system-b/overview.md
