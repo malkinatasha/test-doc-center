@@ -49,7 +49,6 @@ nav: # Структура сайта
         - system-a/support-model/index.md
         - Introduction: system-a/support-model/introduction.md
         - Overview of Support: system-a/support-model/overview.md
-        - Contacts: system-a/support-model/contacts.md
     - System B: 
       - system-b/index.md
       - Overview: system-b/overview.md
